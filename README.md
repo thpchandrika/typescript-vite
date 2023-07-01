@@ -1,5 +1,5 @@
 ## TypeScript with VanillaJS
 
-### LocalStorage
+### Local Storage
 
-### Vite - Web Development
+### Vite Web Development
